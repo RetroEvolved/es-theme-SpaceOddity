@@ -12,7 +12,7 @@
 	<image name="console" extra="true">
 	<path>./console.png</path>
 	<origin>0 0</origin>
-	<color>FFFFFFAA</color>
+	<color>FFFFFF</color>
 	<pos>0 0</pos>
 	<size>1 1</size>
 	<zIndex>70</zIndex>
